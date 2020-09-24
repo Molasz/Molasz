@@ -24,4 +24,4 @@ Me encanta seguir aprendiendo y cada nueva tecnología es un nuevo reto.
 <img src='https://www.codewars.com/users/Molasz/badges/micro'>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Molasz&show_icons=true)  
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Molasz&show_icons=true)  
