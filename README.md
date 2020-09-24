@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Typescript** y **Angular**
 
-- 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/Molasz](https://github.com/Molasz)
+- 👨‍💻 En GitHub tengo repositorios con todos los proyectos que he ido haciendo durante el tiempo
 
 - 📫 Contacto **martiolasz@gmail.com**
 
