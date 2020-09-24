@@ -1,5 +1,5 @@
-<h2 align="center">Hola soy Martí Olasz, tengo 19 años y soy un amante de la tecnología. 🤟</h2>
-<h3 align="center">Me encanta seguir aprendiendo y cada nueva tecnología es un nuevo reto.</h3>
+<h2 align="center">Hola soy Martí Olasz 🤟</h2>
+<h3 align="center">Me encanta aprendiendo cada dia, cada nueva tecnología es un nuevo reto.</h3>
 
 - 🔭 Actualmente estoy trabajando en mis proyectos personales para seguir aprendiendo y mejorando
 
@@ -49,7 +49,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
-<div>
+
+
+<div display='flex'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molasz&layout=compact" alt="molasz" />
 
   <a href="https://linkedin.com/in/martiolasz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="70" width="70" /></a>
