@@ -1,4 +1,4 @@
-# Hola soy Martí Olasz, tengo 19 años y soy un amante de la tecnología. 🤟
+## Hola soy Martí Olasz, tengo 19 años y soy un amante de la tecnología. 🤟
 
 ![]()
 
