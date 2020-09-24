@@ -8,6 +8,7 @@
 - 👨‍💻 En GitHub tengo repositorios con todos los proyectos que he ido haciendo durante el tiempo
 
 - 📫 Contacto **martiolasz@gmail.com**
+**[Linkedin](https://linkedin.com/in/martiolasz)**
 
 
 <h3> Skills </h3>
@@ -48,8 +49,5 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
-
-[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="40" width="40" />](https://linkedin.com/in/martiolasz)
-
 
 
