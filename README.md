@@ -52,7 +52,7 @@
 
 
 <div display='flex'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molasz&layout=compact" alt="molasz" />
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molasz&layout=compact" alt="molasz" /></p>
 
-  <a href="https://linkedin.com/in/martiolasz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="70" width="70" /></a>
+  <p><a href="https://linkedin.com/in/martiolasz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="70" width="70" /></a></p>
 </div>
