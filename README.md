@@ -49,5 +49,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
-<p><a href="https://linkedin.com/in/martiolasz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="40" width="40" /></a></p>
+[<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="40" width="40" />](https://linkedin.com/in/martiolasz)
+
+
 
