@@ -49,10 +49,8 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </div>
 
-<p align="center">
-<a href="https://linkedin.com/in/martiolasz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="30" width="30" /></a>
-</p>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molasz&layout=compact" alt="molasz" />
 
-<img src='https://www.codewars.com/users/Molasz/badges/micro'>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molasz&layout=compact" alt="molasz" /></p>
+  <a href="https://linkedin.com/in/martiolasz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="70" width="70" /></a>
+</div>
