@@ -7,8 +7,7 @@
 
 - 👨‍💻 En GitHub tengo repositorios con todos los proyectos que he ido haciendo durante el tiempo
 
-- 📫 Contacto **martiolasz@gmail.com**
-**[Linkedin](https://linkedin.com/in/martiolasz)**
+- 📫 Contacto **martiolasz@gmail.com** | **[Linkedin](https://linkedin.com/in/martiolasz)**
 
 
 <h3> Skills </h3>
