@@ -1,5 +1,5 @@
 <h2 align="center">Hola soy Martí Olasz 🤟</h2>
-<h3 align="center">Me encanta aprendiendo cada dia, cada nueva tecnología es un nuevo reto.</h3>
+<h3 align="center">Me encanta aprender cada dia, cada nueva tecnología es un nuevo reto.</h3>
 
 - 🔭 Actualmente estoy trabajando en mis proyectos personales para seguir aprendiendo y mejorando
 
@@ -25,13 +25,13 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
 </div>
 
 <div>
   <p>Tecnologies</p> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
 </div>
