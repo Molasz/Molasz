@@ -1,9 +1,9 @@
 <h2 align="center">Hola soy Martí Olasz, tengo 19 años y soy un amante de la tecnología. 🤟</h2>
 <h3 align="center">Me encanta seguir aprendiendo y cada nueva tecnología es un nuevo reto.</h3>
 
-- 🔭 Actualmente estoy trabajando en **mis proyectos personales para seguir aprendiendo y mejorando**
+- 🔭 Actualmente estoy trabajando en mis proyectos personales para seguir aprendiendo y mejorando
 
-- 🌱 Actualmente estoy aprendiendo **Typescript y Angular**
+- 🌱 Actualmente estoy aprendiendo **Typescript** y **Angular**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en [https://github.com/Molasz](https://github.com/Molasz)
 
