@@ -10,6 +10,6 @@ Me encanta seguir aprendiendo y cada nueva tecnología es un nuevo reto.
 
 
 Skills: 
-  -Lenguajes: [JS , HTML , CSS , SCSS] 
-  -Tecnologias: [REACT.JS , NODE.JS , REDUX]
-  -Unit Testing: [JEST , SINON] 
+  *Lenguajes: [JS , HTML , CSS , SCSS] 
+  *Tecnologias: [REACT.JS , NODE.JS , REDUX]
+  *Unit Testing: [JEST , SINON] 
