@@ -12,3 +12,5 @@ Skills:
   * Lenguajes: [JS , HTML , CSS , PYTHON] 
   * Tecnologias: [REACT.JS , NODE.JS , REDUX , SCSS]
   * Unit Testing: [JEST , SINON] 
+
+![](https://www.codewars.com/users/Molasz/badges/large)
