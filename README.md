@@ -19,7 +19,8 @@ Me encanta seguir aprendiendo y cada nueva tecnología es un nuevo reto.
 🌱 Estoy aprendiendo Typescript y angular
 
 
-![]() [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Molasz) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/martiolasz/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Molasz) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/martiolasz/)
 
 <img src='https://www.codewars.com/users/Molasz/badges/micro'>
 
