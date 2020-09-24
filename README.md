@@ -8,7 +8,7 @@
 - 👨‍💻 En GitHub tengo repositorios con todos los proyectos que he ido haciendo durante el tiempo
 
 - 📫 Contacto **martiolasz@gmail.com**
-
+<p><a href="https://linkedin.com/in/martiolasz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="70" width="70" /></a></p>
 
 <h3> Skills </h3>
 <div> 
@@ -51,8 +51,5 @@
 
 
 
-<div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molasz&layout=compact" alt="molasz" /></p>
 
-  <p><a href="https://linkedin.com/in/martiolasz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="martiolasz" height="70" width="70" /></a></p>
-</div>
+<p margin-top='20px'><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=molasz&layout=compact" alt="molasz" /></p>
