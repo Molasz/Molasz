@@ -1,5 +1,5 @@
 <h2 align="center">Hola soy Martí Olasz 🤟</h2>
-<h3 align="center">Me encanta aprender cada dia, cada nueva tecnología es un nuevo reto.</h3>
+<h3 align="center">Me encanta aprender cosas nuevas cada dia, cada nueva tecnología es un nuevo reto a superar.</h3>
 
 - 🔭 Actualmente estoy trabajando en mis proyectos personales para seguir aprendiendo y mejorando
 
