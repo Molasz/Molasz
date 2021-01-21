@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy trabajando en mis proyectos personales para seguir aprendiendo y mejorando
 
-- 🌱 Actualmente estoy aprendiendo **Typescript** y **Vue**
+- 🌱 Actualmente estoy aprendiendo **Dart** y **Flutter**
 
 - 👨‍💻 En GitHub tengo repositorios con todos los proyectos que he ido haciendo durante el tiempo
 
