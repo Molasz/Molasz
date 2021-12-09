@@ -1,9 +1,4 @@
 <h2 align="center">Hola soy Martí Olasz 🤟</h2>
-<h3 align="center">Me encanta aprender cosas nuevas cada dia, cada nueva tecnología es un nuevo reto a superar.</h3>
-
-- 🌱 Actualmente estoy aprendiendo **Dart** y **Flutter**
-
-- 👨‍💻 En GitHub tengo repositorios con todos los proyectos que he ido haciendo durante el tiempo
 
 - 📫 Contacto **martiolasz@gmail.com** | **[Linkedin](https://linkedin.com/in/martiolasz)**
 
