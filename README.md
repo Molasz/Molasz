@@ -1,7 +1,4 @@
-<h2 align="center">Hola soy Martí Olasz 🤟</h2>
-
-- 📫 Contacto **martiolasz@gmail.com** | **[Linkedin](https://linkedin.com/in/martiolasz)**
-
+- 📫 Contacto **molasz.dev@gmail.com** | **[Linkedin](https://linkedin.com/in/martiolasz)**
 
 <h3> Skills </h3>
 <div> 
