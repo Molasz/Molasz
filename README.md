@@ -11,14 +11,14 @@
 </div>
 
 <div> 
-  <p>FrameWorks</p>
+  <p>Frameworks</p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </div>
 
 <div>
-  <p>Tecnologies</p> 
+  <p>Technologies</p> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
